@@ -24,13 +24,13 @@ This project aims to predict classifications using the K-Nearest Neighbors (K-NN
 
 ### Training Phase
 
-![Training Visualization](K-Nearest Neighbors/train.png)
+![Training Visualization](K-Nearest%20Neighbors/train.png)
 
 The training phase visualization demonstrates how the K-NN algorithm separates data points into distinct classes. Blue points represent one class, while orange points represent another. The decision boundary, shown in the background, illustrates how the algorithm distinguishes between the classes based on the training data.
 
 ### Testing Phase
 
-![Testing Visualization](K-Nearest Neighbors/test.png)
+![Testing Visualization](K-Nearest%20Neighbors/test.png)
 
 The testing phase visualization showcases the performance of the trained K-NN model on unseen data. Similar to the training phase, the decision boundary divides the classes, with blue and orange points representing their respective classes. This plot highlights the model's ability to generalize and classify test data accurately.
 
